@@ -1,0 +1,11 @@
+/* .carousel-caption{
+    color: red;
+} */
+
+.image-group{
+    display: inline;
+}
+img{
+display: inline;
+width: 33%;
+}
