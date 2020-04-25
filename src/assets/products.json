@@ -1,0 +1,184 @@
+[
+    {
+      "image": "https://picsum.photos/900/500?random&t=1",
+      "productId": 1044393,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 29.99,
+      "price": 29.99,
+      "name": "Raglan Sleeve Hoodie",
+      "reviewRating": 4.4,
+      "reviewContent": [
+        {
+          "content": "Very happy with this purchase! Great value!.",
+          "reviewer": "Roopie01",
+          "rating": 4
+        }
+      ],
+      "attribute2": "Nice trendy hoodie, very comfortable and soft.",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=3",
+      "productId": 1054012,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 26.99,
+      "price": 26.99,
+      "name": "Fleece Sweatshirt",
+      "reviewRating": 4.4,
+      "reviewContent": [
+        {
+          "content": "Nice trendy hoodie, very comfortable and soft.",
+          "reviewer": "Wanton",
+          "rating": 4
+        },
+        {
+          "content": "Very happy with this purchase! Great value!",
+          "reviewer": "Applelover429",
+          "rating": 5
+        }
+      ],
+      "attribute3": [
+        5149004,
+        1065298,
+        9881868,
+        4591008,
+        7525166,
+        7525078,
+        8167004,
+        8968342,
+        1588032
+      ],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=4",
+      "productId": 1097389,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 30.99,
+      "price": 30.99,
+      "name": "Zip-Front Hoodie",
+      "reviewRating": 5.0,
+      "reviewContent": [],
+      "attribute2": "Nice trendy hoodie, very comfortable and soft.",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=6",
+      "productId": 1098132,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 24.99,
+      "price": 24.99,
+      "name": "Drawstring Hoodie",
+      "reviewRating": 1.0,
+      "reviewContent": [],
+      "attribute2": "Nice trendy hoodie, very comfortable and soft.",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=7",
+      "productId": 1110001,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 39.99,
+      "price": 39.99,
+      "name": "Cotton Hoodie",
+      "reviewRating": 4.4,
+      "reviewContent": [
+        {
+          "content": "Nice trendy hoodie, very comfortable and soft.",
+          "reviewer": "JJ87",
+          "rating": 5
+        },
+        {
+          "content": "Very happy with this purchase! Great value!",
+          "reviewer": "Texas",
+          "rating": 4
+        }
+      ],
+      "attribute2": "Only at Store Buy; 805 2.7GHz quad-core processor; Mobile 4.4 operating system; 4G LTE speed; 5.2\" Quad HD Super AMOLED touch screen",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=9",
+      "productId": 1044393,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 29.99,
+      "price": 29.99,
+      "name": "Raglan Sleeve Hoodie",
+      "reviewRating": 4.4,
+      "reviewContent": [
+        {
+          "content": "Very happy with this purchase! Great value!.",
+          "reviewer": "Roopie01",
+          "rating": 4
+        }
+      ],
+      "attribute2": "Nice trendy hoodie, very comfortable and soft.",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    },
+    {
+      "image": "https://picsum.photos/900/500?random&t=9",
+      "productId": 1044393,
+      "description": "Fashionable hoodie made from cotton-blend fabric.",
+      "salePrice": 29.99,
+      "price": 29.99,
+      "name": "Raglan Sleeve Hoodie",
+      "reviewRating": 4.4,
+      "reviewContent": [
+        {
+          "content": "Very happy with this purchase! Great value!.",
+          "reviewer": "Roopie01",
+          "rating": 4
+        }
+      ],
+      "attribute2": "Nice trendy hoodie, very comfortable and soft.",
+      "attribute3": [],
+      "attribute1": [
+        "Mastercard logo.",
+        "Zip openning.",
+        "Long sleeves.",
+        "Machine wash.",
+        "Regular fit - true to size."
+      ]
+    }
+  ]
