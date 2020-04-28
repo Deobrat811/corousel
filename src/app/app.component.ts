@@ -9,7 +9,7 @@ import { HttpClient } from '@angular/common/http';
 export class AppComponent implements OnInit {
   title = 'corousel';
 
-  products: any[] = [];
+  products: any = [];
   listFormatted: any[] = [];
   constructor(private http: HttpClient) {
 
@@ -28,23 +28,41 @@ export class AppComponent implements OnInit {
   }
 
   groupInThree(products: Array<any>) {
+    const totalItems = this.products.length;
+    //condition to check if array has less then 3 items
+    const itemsInGroup = totalItems > 2 ? 3 : totalItems;
     this.listFormatted = [];
-    var j = -1;
-    var k = -1;
 
-    for (var i = 0; k < this.products.length-1; i++) {
-      if (i % 3 === 0) {
+     let i =0;
+     let j = -1;
+     let k = -1;
+    while(k < this.products.length - 1){
+      if (i % itemsInGroup === 0) {
         j++;
-        k=j;
+        k = j;
         this.listFormatted[j] = [];
         this.listFormatted[j].push(this.products[k]);
-      }
-      else {
+      } else {
         k++;
         this.listFormatted[j].push(this.products[k]);
       }
+      i++;
     }
+// Commented for loop using while instead
+/*     let j = -1;
+    let k = -1;
+
+    for (let i = 0; k < this.products.length - 1; i++) {
+      if (i % itemsInGroup === 0) {
+        j++;
+        k = j;
+        this.listFormatted[j] = [];
+        this.listFormatted[j].push(this.products[k]);
+      } else {
+        k++;
+        this.listFormatted[j].push(this.products[k]);
+      }
+    } */
     console.log(this.listFormatted);
   }
-
 }
